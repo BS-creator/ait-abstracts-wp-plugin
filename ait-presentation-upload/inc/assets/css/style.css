@@ -1,0 +1,23 @@
+.presentation-upload {
+	
+}
+.view-abs-section {
+	margin-bottom: 35px;
+}
+.view-abs-section p {
+	margin-left: 60px;
+	margin-bottom: 10px;
+}
+.view-abs-section label {
+	font-weight: bold;
+}
+.back-to-upload {
+	font-size: 50px;
+	position: relative;
+	top: 7px;
+	color: #4CAF50;
+	cursor: pointer;
+}
+.present-section {
+	display:none;
+}
